@@ -118,16 +118,5 @@ agentic/
   - `POST /chat`: Processes user messages and returns AI-generated responses.
   - `POST /reset`: Clears the chat history from the session.
 
-## Contributing
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m "Add your feature"`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
-- Powered by the Gemini 2.0 Flash model for AI-driven chat capabilities.
 - Built with Flask and React for a robust and modern web application.
